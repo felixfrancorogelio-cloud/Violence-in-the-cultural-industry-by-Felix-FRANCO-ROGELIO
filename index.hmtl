@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Violence in Cultural Industry - Digital Reflections</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500&family=Source+Sans+Pro:wght@300;400;500&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header class="header">
+        <div class="container">
+            <h1 class="site-title">Digital Culture</h1>
+            <p class="site-subtitle">Reflections on violence in the cultural industry</p>
+        </div>
+    </header>
+
+    <nav class="navigation">
+        <div class="container">
+            <ul class="nav-links">
+                <li><a href="#article">Article</a></li>
+                <li><a href="#about">About</a></li>
+                <li><a href="#group-project">Group Project</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <main class="container">
+        <article class="blog-post" id="article">
+            <header class="post-header">
+                <h1>The place of violence in the cultural industry: perspectives from social psychology and psychoanalysis</h1>
+                <div class="post-meta">
+                    <span class="date">Digital Culture Project</span>
+                    <span class="author">By Félix FRANCO-ROGELIO</span>
+                </div>
+            </header>
+
+            <div class="post-content">
+                <!-- Your original English content -->
+                <p><strong>My interest in this subject stems from that one claim we've all heard countless times</strong>, by conservative bald men on TV as much as from left-wing 'woke' activists speaking out against sexual and gender-based violence in video game studios:</p>
+
+                <blockquote>
+                    "Video games make gamers violent."
+                </blockquote>
+
+                <p>Video games and streaming platforms — I will only discuss Twitch, Youtube and Kick here as these are the only ones I'm familiar with — are different ecosystems, however the latter initially started with gaming streams. But the allegations of 'brutalization' of consumers, especially children and teens, is rarely made against streamers.</p>
+
+                <h2>The Generativity of Mediated Violence</h2>
+                
+                <p>Now in the first place why is this claim addressed to video games? Well it seems obvious on the surface level: video games sometimes feature violent scenes. So do books, comics, movies and pretty much every form of entertainment, but the target audience for these is usually way older than for video games. Now is it really a matter of target audience and creative intent from video game studios?</p>
+
+                <p>I believe it is simply a matter of time: the generation of adults who criticized video games for being violent was mostly composed of people who were already grown up when the first successful consoles launched, but they always grew up with cinema established as a legitimate form of art and entertainment. Hence they never challenged the role of depictions of violence in movies (they may have protested against specific movies, but not against the industry in general) as it was already part of the status quo, it was always part of the deal. However this generation witnessed the emergence of video games as a new entertainment medium, and that is the main reason why they were opposed to it.</p>
+
+                <p>Masses are always reticent to changes: in this case, parents may have noticed their children were becoming familiar with something that was completely new to them, which gave them the impression they were losing some control over them, the feeling they were already struggling to keep up with the present. Maybe the rest of the entertainment industry also tried to influence the public opinion as it can be seen as opposing a threat to their own jobs and revenue.</p>
+
+                <h2>Spectator or Actor? The Philosophical Boundary</h2>
+
+                <p>A frequent counter-argument backing the brutalization theory is that, unlike other entertainment media, in the case of video games the player is not a spectator witnessing the violence but actively playing a role in the massacres, murders, fistfights and more. That is indeed true, and raises a pretty interesting philosophical question: where to draw the line between spectator and actor: great film directors have always tried to find creative ways to involve the spectator in the movie so as to strengthen the feeling of immersion. Even in traditional theatre, it is common to see specific directions in which the audience plays an active role. And in a video game, ultimately the player is going through a predetermined sequence of zeros and ones, computed to become images and sounds, and inputting predetermined commands. To a certain extent, players just press play and the 'movie' takes place before their eyes, but they have no real control over what can happen.</p>
+
+                <p>Violence never solely emerges from the player: even though in some games there might be a non-violent approach to the level, violence only exists because the developers put it there. Just like in movies: ultimately, violent scenes only exist because the director chose it would benefit the narrative developed by the movie.</p>
+
+                <p>We can also note that some of the greatest movie directors have deliberately depicted scenes of violence in their most important movies: Hitchcock's The Birds, Coppola's Apocalypse Now, Lynch's Eraserhead, Kubrick's A Clockwork Orange and pretty much the whole filmography of Tarantino are definitely among the more violent films out there. From this perspective, it seems video games are only the tip of the iceberg, and in reality the whole cultural industry is based on the glorification of violence.</p>
+
+                <h2>Streaming: Blurring the Boundaries</h2>
+
+                <p>But how does that translate to the world of streaming? Well as was said in the beginning, livestreaming platforms started with gaming. But the thing is, they are not confined to gaming, and in fact all the biggest creators today create IRL content. However, the streamers themselves are, generally, gamers, and a significant part of their audience is as well.</p>
+
+                <p>Just like the rest of the cultural industry, it seems logical to view gaming as an outlet for many players, a way to release pressure to relax. From there — and it sounds almost Freudian — it can reasonably be said that gaming is a way for players to satisfy socially unacceptable or practically unrealistic desires: do in the game what you can't do in the real world.</p>
+
+                <p>The same can be said for streaming, but the strength of streaming comes from the fact it blurs the boundaries between online and offline. In fact, many studies have shown that a substantial number of viewers develop some form of parasocial relationship with streamers. Unlike pre-recorded videos like YouTube, where everything is controlled, what draws most viewers to streaming is that they feel close to the creator: they can chat in real time, they can see unfiltered reactions, they are finally granted access to the 'real human' (or at least what appears as such) which sometimes, as oblivious as it sounds, stutters: that is not a thing in edited videos.</p>
+
+                <p>Furthermore, unlike TV, most streamers feature ways to directly involve their audience in their content. This can be done by asking questions to which they can answer, by making polls, by randomly selecting viewers to play with them, or by letting the chat decide things that will have practical implications for the rest of the stream.</p>
+
+                <p>All of this greatly solidifies the tie between the viewer and the streamer, and the former can much more easily identify with the latter, strengthening the psychological effect of fulfilling what your offline life can let you fulfill.</p>
+
+                <p>Now whenever streamers engage in crazy pranks, dangerous expeditions, ambitious real-life games, the viewers feel like they're part of the experience.</p>
+
+                <h2>Catharsis or Normalization?</h2>
+
+                <p>From there, it's really simple to see the whole point of online violence. Its role is essentially to let the viewers project themselves in the violence. But this raises another question: does this appease the desire for violence or does it fuel it?</p>
+
+                <p>In social psychology, there is a concept known as the catharsis: J. P. Leyens defined it in 1979 as "the diminution or extinction of aggressive behaviours and feelings, after the expression of aggressivity". In other words, exteriorizing the violence to finally kick it out. However we must also admit that the normalization of violence it implies does reinforce the presence of violence in our daily life.</p>
+
+                <p>Violence online has taken many forms, sometimes rather pernicious. During caritative streaming events in France, I remember a boxing match was organized between two streamers, who had nothing to do with violence or with martial arts initially. One of them ended up with a broken nose, his jaw covered in blood. Now the brutal display of physical humiliation in the Jeanpormanove case is perhaps the most obvious form of violence, but what about symbolic violence? Although they have never filmed physical harm, it doesn't seem incoherent to view obscene content from the "Pools, hot tubs & bikinis" section from Kick or from French Tik Tok influencer AD Laurent as violent: dehumanization through hypersexualization is not that different from dehumanization through repeated humiliation.</p>
+
+                <p>And what about extreme challenges? That guy who films himself in immense pain as he tries to experience all the most painful bug stings on Earth, those who suffer very harsh conditions in survival challenges, this guy who filmed his ascent of Mount Everest, this amateur athlete who went through an extreme ironman in triathlon? To a certain extent they do participate in this ecosystem of staged violence and consented pain.</p>
+
+                <h2>Conclusion: Systemic Violence</h2>
+
+                <p>This is precisely the point I wanted to reach. While the existence of channels like Jeanpormanove is of course extremely problematic, the way we look at it as a society shows such a narrow understanding of the situation. What we generally point out as violent is just the tip of the iceberg, but in reality the majority, if not the totality, of the cultural industry is built upon this cult of violence. The system is a cohesive whole, and taking down a minuscule chunk of it will not change its nature, in fact it will be so insignificant that despite what we may think of what it may look like, it will be almost entirely diluted in the grander scheme of things and have no practical implications outside of what is directly affected — in our case only the channel Jeanpormanove and the creators behind it will see their relationship to violence on and offline substantially changed.</p>
+
+                <div class="disclaimer">
+                    <p><strong>Final disclaimer:</strong> these claims, although relying on existent concepts drawn from social psychology, psychoanalysis and sociology in general, are not confirmed by existing academic research. They represent just my own analysis and understanding of the situation.</p>
+                </div>
+            </div>
+        </article>
+
+        <section class="about" id="about">
+            <h2>About This Reflection</h2>
+            <p>This website is part of an individual project for the Digital Culture course, exploring the theme of violence in the cultural industry through perspectives from social psychology and psychoanalysis.</p>
+            <p><strong>Group theme:</strong> The Jean Pormanove case</p>
+            <p><strong>Personal sub-theme:</strong> The place of violence in the cultural industry</p>
+        </section>
+
+        <section class="group-project" id="group-project">
+            <h2>Group Project</h2>
+            <p>This work is part of a broader analysis of the Jean Pormanove case conducted in collaboration with my working group.</p>
+            <p>To access the complete group project, please visit: https://jean-pormanove-digitalculture.my.canva.site/.</p>
+        </section>
+    </main>
+
+    <footer class="footer">
+        <div class="container">
+            <p>&copy; 2025 Digital Culture Project - Felix FRANCO-ROGELIO</p>
+        </div>
+    </footer>
+</body>
+</html>
